@@ -1,4 +1,4 @@
-module github.com/openvex/go-vex
+module github.com/J-Heinz-Telekom/go-vex
 
 go 1.22
 
